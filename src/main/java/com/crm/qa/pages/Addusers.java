@@ -19,7 +19,7 @@ public class Addusers extends TestBase {
 		
 		driver.get("www.facebook.com");
 		
-		//just to test
+		//some changes
 	}
 	
 	
